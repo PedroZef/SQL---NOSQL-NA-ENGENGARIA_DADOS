@@ -99,3 +99,5 @@ Diferente dos SGBD tradicionais, no SGBD NewSQL definem cinco características:
 - É a área do conhecimento focada em tratar, analisar e obter informações a partir de conjuntos de dados grandes demais. Big data é uma realidade para muitas empresas, o mercado demanda profissionais que estejam atualizados e saibam lidar com esse novo cenário.
 
 - Os conhecimentos em SQL, NoSQL são muito importantes para lidar com grandes quantidades de dados. Atualmente, com o uso do NoSQL permitem as empresas trabalharem com dados semiestruturados e com grande poder de escalabilidade para o universo do Big Data.
+
+[https://docs.microsoft.com/pt-br/dotnet/architecture/cloud-native/relational-vs-nosql-data]
