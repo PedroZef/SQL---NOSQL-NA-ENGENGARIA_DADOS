@@ -2,7 +2,7 @@
 
 ## SQL
 
-SQL é a sigla para “Structured Query Language” que significa, traduzindo para o português, “Linguagem de Consulta Estruturada”. Com o SQL, você pode executar vários comandos para criar, alterar, gerenciar, consultar, dentre outras informações no seu banco de dados e seguem uma modelagem relacional.
+SQL é a sigla para Structured Query Language que significa, traduzindo para o português, “Linguagem de Consulta Estruturada”. Com o SQL, você pode executar vários comandos para criar, alterar, gerenciar, consultar, dentre outras informações no seu banco de dados e seguem uma modelagem relacional.
 
 - DML: linguagem de manipulação de dados: Os comandos mais importantes desse subconjunto são: INSERT, DELETE e UPDATE.
 
@@ -21,7 +21,8 @@ NoSQL (Not Only SQL) é o termo utilizado para banco de dados não relacionais d
 ### No geral, temos 5 tipos de bancos de dados
 
 - Documentos
-Os dados são armazenados como documentos. Os documentos podem ser descritos como dados no formato de chave-valor, como por exemplo, o padrão JSON. Um exemplo de banco de dados neste formato é o MongoDB;
+Os dados são armazenados como documentos. Os documentos podem ser de scritos como dados no formato de chave-valor, como por exemplo, o padrão JSON.
+- Um exemplo de banco de dados neste formato é o MongoDB;
 
 - Colunas
 Os dados são armazenados em linhas particulares de tabela no disco, podendo suportar várias linhas e colunas e também permitem sub-colunas. Um banco de dados dessa família é o Cassandra;
@@ -35,7 +36,7 @@ Este é a que aguenta mais carga de dados, pois o conceito dele é que um determ
 - Multi-Model
 Como o próprio nome diz, os bancos de dados nosql desta categoria, mesclam os modelos acima citados.
 
-## Suas diferenças
+### Suas diferenças
 
 - NoSQL é que toda a informação é agrupada e guardada no mesmo registro.
 
@@ -65,7 +66,7 @@ Diferente dos SGBD tradicionais, no SGBD NewSQL definem cinco características:
 
 - Arquitetura escalável, com memória distribuída e com capacidade de funcionar em um aglomerado com um grande número de nós.
 
-NewSQL é um aprimoramento do RDBMS utilizando o melhor dos dois mundos. Pois vimos, cada banco tem um propósito específico.
+- NewSQL é um aprimoramento do RDBMS utilizando o melhor dos dois mundos. Pois vimos, cada banco tem um propósito específico.
 
 - Bancos NoSQL especialistas com o poder do NewSQL, como é o caso do MariaDB (Desenvolvido pelo criador do MySQL).
 
@@ -77,17 +78,24 @@ NewSQL é um aprimoramento do RDBMS utilizando o melhor dos dois mundos. Pois vi
 
 ## Engenharia de dados
 
-Um profissional dessa área é responsável por desenvolvimento de esquemas de tabelas, gerenciar e organizar dados, também projetar e desenvolver uma arquitetura de dados escalável, verificar a qualidade dos dados e eliminar dados, agrupar dados, armazenamento
+- Um profissional dessa área é responsável por desenvolvimento de esquemas de tabelas, gerenciar e organizar dados, também projetar e desenvolver uma arquitetura de dados escalável, verificar a qualidade dos dados e eliminar dados, agrupar dados, armazenamento
 
-A engenharia de dados é necessária para:
+### Na engenharia de dados
 
-Coletar e alinhar dados;
-Desenvolver algoritmos para transformação de dados;
-Auxiliar na gestão;
-Validar e analisar dados;
-Criar, testar e manter dados.
-O profissional que atua na área de engenharia de dados tem a responsabilidade de implementar, monitorar, atualizar e garantir a segurança do banco, o que requer um excelente nível de conhecimento em SQL e NoSQL. Assim, os profissionais devem conhecer as novas tecnologias, no intuito de sempre encontrar as melhores soluções para cada problema.
+- Coletar e alinhar dados;
+
+- Desenvolver algoritmos para transformação de dados;
+
+- Auxiliar na gestão;
+
+- Validar e analisar dados;
+
+- Criar, testar e manter dados.
+
+- O profissional que atua na área de engenharia de dados tem a responsabilidade de implementar, monitorar, atualizar e garantir a segurança do banco, o que requer um excelente nível de conhecimento em SQL e NoSQL.
 
 ## Big data
 
-É a área do conhecimento focada em tratar, analisar e obter informações a partir de conjuntos de dados grandes demais. Big data é uma realidade para muitas empresas, o mercado demanda profissionais que estejam atualizados e saibam lidar com esse novo cenário. Os conhecimentos em SQL, NoSQL são muito importantes para lidar com dados grandes. Atualmente, com o uso do NoSQL permitem as empresas trabalharem com dados semiestruturados e com grande poder de escalabilidade para o universo do Big Data
+- É a área do conhecimento focada em tratar, analisar e obter informações a partir de conjuntos de dados grandes demais. Big data é uma realidade para muitas empresas, o mercado demanda profissionais que estejam atualizados e saibam lidar com esse novo cenário.
+
+- Os conhecimentos em SQL, NoSQL são muito importantes para lidar com grandes quantidades de dados. Atualmente, com o uso do NoSQL permitem as empresas trabalharem com dados semiestruturados e com grande poder de escalabilidade para o universo do Big Data.
